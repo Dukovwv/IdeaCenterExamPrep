@@ -1,4 +1,4 @@
-name: .NET
+name: Idea
 
 on:
   push:
